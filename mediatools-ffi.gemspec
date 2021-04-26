@@ -6,8 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['AppleDash']
   spec.email         = ['pet@feather.horse']
 
-  spec.summary       = 'TODO: Write a short summary, because RubyGems requires one.'
-  spec.description   = 'TODO: Write a longer description or delete this line.'
+  spec.summary       = 'Like mediatools, but FFI.'
   spec.homepage      = 'https://github.com/Twibooru/mediatools-ffi'
   spec.required_ruby_version = Gem::Requirement.new('>= 2.4.0')
 
