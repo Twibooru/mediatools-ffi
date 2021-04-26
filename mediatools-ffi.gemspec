@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative 'lib/media_tools/ffi/version'
-
 Gem::Specification.new do |spec|
   spec.name          = 'mediatools-ffi'
   spec.version       = '0.1.0'
